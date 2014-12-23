@@ -1,3 +1,12 @@
+This is the code submitted for Project ID: 201412-6 
+Team:
+Rajesh Madala
+Shreyas Shrivastava
+Mayank Misra
+Mandeep Singh
+
+Below is a short description of the files:
+
 streaming.py -- get tweets which has "$AAPL" 
 auth.py -- authentication details
 
